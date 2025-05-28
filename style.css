@@ -1,0 +1,16 @@
+tr:nth-child(even){
+    background-color: brown;
+}
+table{
+  border-radius: 13px;
+  background-image: url(download.jfif);
+  
+  background-image: url(death.jfif)
+  
+}
+.v1{
+  border-radius: 13px;
+
+  color: blueviolet;
+  
+}
